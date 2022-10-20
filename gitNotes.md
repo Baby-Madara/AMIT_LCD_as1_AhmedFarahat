@@ -10,3 +10,6 @@
 - git commit
 - git status
 - git add
+
+- git config --global user.email "my email"
+- git config --global user.name "my username"
