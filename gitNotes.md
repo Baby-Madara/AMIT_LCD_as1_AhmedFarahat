@@ -11,5 +11,8 @@
 - git status
 - git add
 
+git config --global ---safe.directory "sdffwe"
+
+
 - git config --global user.email "my email"
 - git config --global user.name "my username"
